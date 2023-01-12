@@ -1,1 +1,2 @@
 # landing-page
+This project demonstarates the design of a website from the skills obtained this far. Photo credit goes to the following creators: Samer Dabul, Antony Trivet, Helena Lopes and Mixkit gallery. I am thrilled by the results of your work.
